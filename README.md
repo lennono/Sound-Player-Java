@@ -1,4 +1,4 @@
-# Toto-Sound-Player
+# Sound-Player
 The song toto is inserted into a 10 second buffer, using a producer consumer format. There is no downtime when the song is playing  
 
 The applet comes with a text area for entering commands.
