@@ -3,7 +3,7 @@ The song toto is inserted into a 10 second buffer, using a producer consumer for
 
 The applet comes with a text area for entering commands.
 
-* x := End song 
+* x := End song  
 * p := Pause
 * r := Resume
 * m := Mute
